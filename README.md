@@ -4,7 +4,7 @@ Working repo for my resume, currently being retargeted toward **Forward Deployed
 
 | File | What it is |
 |---|---|
-| `Tom_Islam_Template.docx` | Current resume template |
+| `Tom_Islam_Template.docx` | Resume with two versions: the original (pages 1–2) and the FDE-focused version (pages 3–4) |
 
 ## What FDE hiring managers look for
 
@@ -30,7 +30,7 @@ Working repo for my resume, currently being retargeted toward **Forward Deployed
 - [x] Add a Selected Projects section built from public repos
 - [x] Reorder experience bullets to lead with partner collaboration and stakeholder tooling
 - [x] Add location, work authorization, travel and clearance line to the header
-- [ ] Keep `Tom_Islam_Template.docx` in sync with the FDE version of the resume
+- [x] Keep `Tom_Islam_Template.docx` in sync with the FDE version of the resume
 
 ### Projects
 - [ ] Replace the default template README in `ai-control-plane` with a real one (what it does, screenshots, install steps)
